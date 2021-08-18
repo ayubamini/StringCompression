@@ -1,5 +1,5 @@
 # StringCompression
-A simple program in .NET 5.0 that compresses an alphabetical string by collapsing consecutive characters. The rules
+A simple program in .NET 5.0 and unit testing that compresses an alphabetical string by collapsing consecutive characters. The rules
 of the compression algorithm are defined by the test cases below.
 
 # Test cases:
